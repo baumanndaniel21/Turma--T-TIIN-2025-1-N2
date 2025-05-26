@@ -1,0 +1,53 @@
+📚 Lista de Exercícios – Variáveis e Operadores Aritméticos
+
+1. Soma Simples
+Crie um algoritmo que leia dois números reais e mostre a soma deles.
+
+2. Dobro e Triplo
+Crie um algoritmo que leia um número inteiro e calcule seu dobro e seu triplo. Mostre os dois resultados.
+
+3. Média de Quatro Notas
+Crie um algoritmo que leia quatro notas (reais) de um aluno e calcule a média.
+
+4. Conversão de Horas para Minutos
+Crie um algoritmo que leia uma quantidade de horas e converta para minutos (1 hora = 60 minutos).
+
+5. Perímetro de um Retângulo
+Crie um algoritmo que leia a base e a altura de um retângulo e calcule o seu perímetro.
+Fórmula: perímetro = 2 × (base + altura)
+
+6. Diferença entre Dois Números
+Crie um algoritmo que leia dois números inteiros e mostre a diferença absoluta entre eles (sem sinal negativo).
+
+7. Área de um Círculo
+Crie um algoritmo que leia o valor do raio de um círculo e calcule a área.
+Fórmula: Área = π × raio² (considere π = 3.14)
+
+8. Conversão de Celsius para Fahrenheit
+Crie um algoritmo que leia uma temperatura em graus Celsius e converta para Fahrenheit.
+Fórmula: F = (C × 9/5) + 32
+
+9. Valor Total da Compra
+Crie um algoritmo que leia o preço unitário de um produto e a quantidade comprada. Calcule o valor total da compra.
+
+10. Salário com Bônus
+Crie um algoritmo que leia o salário fixo de um funcionário e o valor de vendas que ele realizou no mês. Calcule o salário final, considerando que ele recebe 10% de bônus sobre as vendas.
+
+11. Divisão com Resto
+Crie um algoritmo que leia dois números inteiros e mostre o quociente e o resto da divisão do primeiro pelo segundo.
+
+12. Tempo de Viagem
+Crie um algoritmo que leia a distância em quilômetros entre duas cidades e a velocidade média esperada da viagem (em km/h). Calcule o tempo estimado da viagem em horas.
+Fórmula: tempo = distância ÷ velocidade
+
+13. Conversão de Dólar para Reais
+Crie um algoritmo que leia um valor em dólares e a cotação do dólar em reais. Calcule e mostre o valor convertido em reais.
+Fórmula: reais = dólares × cotação
+
+14. Desconto em Produto
+Crie um algoritmo que leia o preço de um produto e o percentual de desconto. Calcule o valor final com desconto.
+Fórmula: valor final = preço - (preço × percentual / 100)
+
+15. Aumento Salarial
+Crie um algoritmo que leia o salário atual de um funcionário e o percentual de aumento. Calcule e mostre o novo salário após o aumento.
+Fórmula: novo salário = salário + (salário × percentual / 100)
